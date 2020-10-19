@@ -9,12 +9,12 @@
 	],
 "creatorBuild": "32186",
 "files": {
-	"/assets/Spiral Demo.sketch": {
+	"/assets/Circle Bouncing.sketch": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/Spiral Demo.sketch",
+		"oAP": "/assets/Circle Bouncing.sketch",
 		"oF": 0
 		},
 	"/deploy/index.html": {
@@ -35,6 +35,16 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/deploy/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/style-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/deploy/style.css": {
 		"aP": 1,
@@ -242,6 +252,16 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 0
+		},
+	"/dev/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/dev/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
